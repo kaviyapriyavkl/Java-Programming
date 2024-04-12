@@ -4,4 +4,3 @@ public class sample2 {
         System.out.print("hello");
     }
 }
-}
