@@ -14,5 +14,6 @@ public class JavaLoopsI {
             System.out.println(N + " x "+i+" = "+i*N);
         }
     }
+ 
 }
     
